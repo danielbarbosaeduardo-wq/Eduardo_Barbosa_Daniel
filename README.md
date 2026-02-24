@@ -27,5 +27,6 @@ Criando dashboards e sistemas web
 
 ⭐ Sempre aprendendo algo novo!
 
-[![EduardoBarbosaDaniel GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoBarbosaDaniel)](https://github.com/anuraghazra/github-readme-stats)
-![EduardoBarbosaDaniel GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoBarbosaDaniel&show_icons=true)
+![EduardoBarbosaDaniel GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoBarbosaDaniel&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardoBarbosaDaniel&layout=compact&theme=tokyonight)
