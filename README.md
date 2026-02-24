@@ -57,3 +57,5 @@
 ⭐ Sempre aprendendo algo novo!
 </p>
 
+## 🐍 Contribuições
+![Snake animation](https://github.com/EduardoBarbosaDaniel/EduardoBarbosaDaniel/blob/output/github-contribution-grid-snake.svg)
