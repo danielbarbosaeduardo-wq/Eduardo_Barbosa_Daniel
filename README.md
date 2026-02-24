@@ -27,4 +27,5 @@ Criando dashboards e sistemas web
 
 ⭐ Sempre aprendendo algo novo!
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoBarbosaDaniel)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoBarbosaDaniel&show_icons=true)
