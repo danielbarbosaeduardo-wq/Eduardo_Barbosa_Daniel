@@ -27,19 +27,7 @@
 📊 Dashboard Administrativo  
 
 ---
-<div>
-      ## 🌐 Conecte-se comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/eduardo-barbosa-daniel-891224349" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/https://www.instagram.com/edutvw/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>    
-</div>
 
 ## 📊 Estatísticas
 
@@ -49,6 +37,21 @@
 </p>
 
 ---
+<div>
+<p>
+ ## 🌐 Conecte-se comigo
+
+<p>
+  <a href="https://www.linkedin.com/in/eduardo-barbosa-daniel-891224349" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/edutvw/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+</p>    
+</div>
 
 <p align="center">
 ⭐ Sempre aprendendo algo novo!
