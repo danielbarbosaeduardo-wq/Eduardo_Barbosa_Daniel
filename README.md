@@ -26,3 +26,9 @@ Criando dashboards e sistemas web
 ---
 
 ⭐ Sempre aprendendo algo novo!
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielbarbosaeduardo-wq&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbarbosaeduardo-wq&layout=compact&theme=tokyonight)
